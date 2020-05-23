@@ -1,7 +1,7 @@
-Quaqua-JFC - pure Java JFileChooser for Mac
+Zuhura
 ======
-
-A fork of karlvr's Quaqua, which appears to be the official continuation of Werner Randelshofer's original work here:  http://www.randelshofer.ch/quaqua/
+Zuhura seeks to make Quaqua to cross platform and divorce it from its Mac OS bindings.its based on WeirdKids Fork of
+ karlvr's Quaqua, which appears to be the official continuation of Werner Randelshofer's original work here:  http://www.randelshofer.ch/quaqua/
 
 Mr. Randelshofer did a awesome job on Quaqua for many years, but then he had to let it go. Perhaps due to less interest in Java on Mac, Java Swing, or he just got bored. You can tell by looking at the code (through the lens of what code looked like during the Java 1.5-1.6 era) that Randdelshofer cared deeply about responsiveness and accuracy of his look and feel. 
 
